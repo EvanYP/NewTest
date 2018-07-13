@@ -1,0 +1,3 @@
+translate the doc from en to zh
+
+翻譯英文文件成中文。
