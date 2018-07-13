@@ -1,3 +1,5 @@
+﻿# -*- coding: UTF-8 -*-
+
 translate the doc from en to zh
 
-½Ķ�^���󦨤���C
+翻譯英文文件成中文。
